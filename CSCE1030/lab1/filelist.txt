@@ -1,4 +1,0 @@
-sortedIntegers
-programs/
-integers
-filelist.txt
