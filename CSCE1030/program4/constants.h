@@ -1,0 +1,2 @@
+#define NUMBERofSTUDENTS 15
+#define PGMSCORES 5

@@ -1,0 +1,17 @@
+10
+Faulk Julia 1930886 45 firstYear 3.412680 2017
+Warner Teddy 3760492 27 sophmore 1.989450 2019
+Pace George 1234567 41 sophmore 2.759900 2018
+Bruce Julia 8455736 29 senior 2.015850 2021
+Fletcher Debbie 7021530 20 senior 2.669170 2017
+Cobb David 2979802 30 senior 3.285060 2019
+Holt Nel 2018456 19 junior 2.724590 2015
+Mathewson Bunter 7544919 32 junior 3.694170 2016
+Ruth Tuppence 5664370 41 sophmore 3.747160 2012
+Wagner Irene 3241873 20 firstYear 2.037200 2013
+
+create year = junior create year = senior union create gpa > 3.0 intersection print
+create lastName = Ruth print
+create age = 18 print
+create expectedGrad > 2015 create year = firstYear create age = 18 intersection intersection print
+create idNum = 1234567 print
